@@ -173,7 +173,7 @@ button:focus {
   }
 
   .navbar-brand img {
-    width: 80px !important;
+    width: 60px !important;
     padding: 10px 0
   }
 
@@ -320,7 +320,8 @@ button:focus {
   }
 
   .header-title {
-    margin-left: 0;
+    margin-left: 10px;
+    margin-top: 10px;
   }
 
 }
