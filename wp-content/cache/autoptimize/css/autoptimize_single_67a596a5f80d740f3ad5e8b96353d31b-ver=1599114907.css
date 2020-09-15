@@ -28,22 +28,22 @@
 }
 
 .elementor-2 .elementor-element.elementor-element-9335a06 .ae-swiper-button-prev i {
-  color: #ad29ff;
+  color: #5E216D;
   font-size: 32px
 }
 
 .elementor-2 .elementor-element.elementor-element-9335a06 .ae-swiper-button-next i {
-  color: #ad29ff;
+  color: #5E216D;
   font-size: 32px
 }
 
 .elementor-2 .elementor-element.elementor-element-9335a06 .ae-swiper-button-prev svg {
-  fill: #ad29ff;
+  fill: #5E216D;
   width: 32px
 }
 
 .elementor-2 .elementor-element.elementor-element-9335a06 .ae-swiper-button-next svg {
-  fill: #ad29ff;
+  fill: #5E216D;
   width: 32px
 }
 
@@ -54,7 +54,7 @@
 }
 
 .elementor-2 .elementor-element.elementor-element-9335a06 .swiper-pagination-bullet-active {
-  background-color: #ad29ff !important
+  background-color: #5E216D !important
 }
 
 .elementor-2 .elementor-element.elementor-element-9335a06>.elementor-widget-container {
@@ -101,7 +101,7 @@
 }
 
 .elementor-2 .elementor-element.elementor-element-1560831 .elementor-heading-title {
-  color: #2a0073;
+  color: #fbd009;
   font-size: 22px;
   font-weight: 400
 }
@@ -124,7 +124,7 @@
   font-weight: 300;
   fill: #fff;
   color: #fff;
-  background-color: #ad29ff;
+  background-color: #5E216D;
   border-radius: 4px
 }
 
@@ -163,7 +163,7 @@
 }
 
 .elementor-2 .elementor-element.elementor-element-5df2fa2 .elementor-heading-title {
-  color: #2a0073;
+  color: #fbd009;
   font-size: 22px;
   font-weight: 400
 }
@@ -234,7 +234,7 @@
 }
 
 .elementor-2 .elementor-element.elementor-element-55b0d8f .elementor-element-populated a {
-  color: #2a0073
+  color: #fbd009
 }
 
 .elementor-2 .elementor-element.elementor-element-008d5e3 .elementor-text-editor {
@@ -279,14 +279,14 @@
 }
 
 .elementor-2 .elementor-element.elementor-element-1bac302 .jet-ajax-search__item-title {
-  color: #2a0073;
+  color: #fbd009;
   font-family: "Montserrat", Sans-serif;
   font-size: 16px;
   font-weight: 400
 }
 
 .elementor-2 .elementor-element.elementor-element-1bac302 .jet-ajax-search__item-content {
-  color: #2a0073;
+  color: #fbd009;
   font-family: "Montserrat", Sans-serif;
   font-size: 16px;
   font-weight: 400
@@ -312,7 +312,7 @@
 }
 
 .elementor-2 .elementor-element.elementor-element-1bac302 .jet-ajax-search__spinner {
-  color: #ad29ff
+  color: #5E216D
 }
 
 @media(min-width:1025px) {
