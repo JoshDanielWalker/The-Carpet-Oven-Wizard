@@ -11,7 +11,7 @@
 	<meta name="robots" content="index, follow" />
 	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-	<link rel="canonical" href="index.html" />
+
 	<meta property="og:locale" content="en_GB" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Reviews | The Carpet & Oven Wizard | call us 0800 002 5242 " />
@@ -36,7 +36,7 @@
 
 
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php-rsd.xml" />
-	<link rel='shortlink' href='index.html' />
+
 
 	<link rel="icon" href="../wp-content/uploads/2015/12/favicon.png" sizes="32x32" />
 	<link rel="icon" href="../wp-content/uploads/2015/12/favicon.png" sizes="192x192" />
